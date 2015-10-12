@@ -3,6 +3,10 @@ colorscheme iceberg
 syntax on
 filetype plugin indent on
 
+" menu bottom
+set wildmenu
+set wildmode=full
+
 set nocompatible
 
 set noswapfile
