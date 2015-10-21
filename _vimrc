@@ -51,7 +51,7 @@ highlight SpecialKey guifg=#ffffff
 
 " Show overbroad
 highlight OverLength ctermbg=red ctermfg=white guibg=#592929
-match OverLength /\%121v.\+/
+match OverLength /\%80v.\+/
 
 " Shorcuts
 map <F1> :NERDTreeToggle<CR>
